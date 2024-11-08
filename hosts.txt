@@ -1,0 +1,33 @@
+192.168.1.1
+google.com
+8.8.8.8
+192.168.0.100
+example.com
+yahoo.com
+192.168.0.254
+
+# Additional IP addresses and domain names
+facebook.com
+1.1.1.1
+192.168.1.50
+bing.com
+amazon.com
+192.168.2.10
+192.168.2.20
+microsoft.com
+
+# CIDR Notation
+192.168.3.0/29
+
+# IP Range
+192.168.4.1-192.168.4.10
+
+# More domain names
+github.com
+reddit.com
+stackoverflow.com
+cnn.com
+bbc.co.uk
+
+# Another public IP
+9.9.9.9
